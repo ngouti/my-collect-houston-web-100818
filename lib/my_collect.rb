@@ -8,7 +8,7 @@ def my_collect(array)
 end
 na
 else
-  puts "EMpty array"
+  puts "Empty array"
 end
 end
 
