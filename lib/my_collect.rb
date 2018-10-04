@@ -8,7 +8,7 @@ def my_collect(array)
 end
 na
 else
-  puts "Empty array"
+  puts "No block given"
 end
 end
 
